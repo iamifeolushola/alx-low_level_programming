@@ -30,6 +30,4 @@ File 103-fibonacci.c is a program that finds and prints the sum of the even-valu
 
 File 104-fibonacci.c is a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 
-File _putchar.c contains the _putchar() function definition.
-
-File main.h is the header file containing all the function prototypes used in this project.
+File "main.h" is the header file containing all the function prototypes used in this project.
