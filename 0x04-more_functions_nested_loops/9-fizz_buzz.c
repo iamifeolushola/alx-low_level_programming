@@ -4,7 +4,7 @@
  * main - this prints Fizz and Buzz for each numbers 3 and 5
  * Return: Always 0 (Success)
  */
-int main<void>
+int main(void)
 {
 	int n;
 
