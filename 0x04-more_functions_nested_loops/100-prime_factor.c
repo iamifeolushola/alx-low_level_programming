@@ -1,13 +1,14 @@
 #include <stdio.h>
 
 /**
- * main - prints largest prime factor
- * Return: 0 Always (Success)
+ * main - prints largest prime factor.
+ * Return: Always 0 (Success)
  */
+
 int main(void)
 {
 	long int n, fp;
-	
+
 	n = 612852475143;
 	for (fp = 2; fp <= n; fp++)
 	{
