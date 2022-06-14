@@ -22,6 +22,8 @@ All of the following files are programmes written in C:
 | [`7-puts_half.c`] (./7-puts_half.c) | Prints half of a string |
 | [`8-print_array.c`] (./8-print_array.c) | Prints `n` elements of an array of integers followed by a new line |
 | [`9-strcpy.c`] (./9-strcpy.c) | Copies the string pointed to by `src`, including the terminating null byte, to the buffer ppointed to by `dest` |
+| [`100-atoi.c`] (./100-atoi.c) | Converts a string to an integer |
+| [`101-keygen.c`] (./101-keygen.c) | Generates a random valid password for a program `101-crackme` |
 
 ## Author
 * Ifeoluwa Olushola - Cohort 7 (May 2022)
