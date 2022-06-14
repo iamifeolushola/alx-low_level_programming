@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- * main - generates a random password 
+ * main - generates a random password.
  * Return: 0 Always.
  */
 int main(void)
