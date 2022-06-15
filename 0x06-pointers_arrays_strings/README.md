@@ -16,6 +16,6 @@ All the following files are programmes written in C language:
 
 
 ## Author
-Ifeoluwa Olushola - Cohort 7 (May 2022)
-Email: iam.ifeolushola@gmail.com
-Twitter: https://twitter.com/iamifeolushola
+* Ifeoluwa Olushola - Cohort 7 (May 2022)
+* Email: iam.ifeolushola@gmail.com
+* Twitter: https://twitter.com/iamifeolushola
