@@ -1,10 +1,9 @@
 #include "main.h"
-
 /**
  * _strncat: this function concatenates two strings
- * @src: the source
  * @dest: the destination
- * @n: total amount of bytes used from `src`
+ * @src: the source
+ * @n: total amount of bytes from `src`
  * Return: the pointer to @dest
  */
 char *_strncat(char *dest, char *src, int n)
