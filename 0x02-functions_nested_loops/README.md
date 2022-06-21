@@ -1,10 +1,10 @@
 # 0x02. Functions, nested loops
-
+This aimed to teach how to nested loops, what a function is, the difference between declaration and definition of functions, what are prototypes, the scope of variables, header file `#include`, the `gcc` flags `-Wall -Werror -pedantic -Wextra -std=gnu89` and more.
 
 ## More info
-*
-*
-*
+* Tested on Ubuntu 20.04.0 LTS
+* C files are compiled using gcc 4.8.4
+* C files are written according to the C90 standard
 
 ## Project Files
 
