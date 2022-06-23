@@ -4,8 +4,8 @@ This directory covers the part of c programming that deals with variables, the l
 
 ## More Info
 * Tested on Ubuntu 20.04.0 LTS
-* C files are compiled using gcc 4.8.4
-* C files are written according to the C90 standard
+* C files are compiled using gcc `9.4.0`
+* C files are written according to the `C90` standard
 
 ## Project Files
 
