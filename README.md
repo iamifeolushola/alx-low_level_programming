@@ -3,10 +3,10 @@
 At ALX School, we learn by doing the hard things. This repository contains directories each corresponding to a **Low-level programming** and **algorithm** project. These projects are part of the School's 12-month curriculum.
 
 ## Technologies
-* Scripts written in Bash 4.3.11(1)
+* Scripts written in Bash 5.0.17(1)
 * Tested on Ubuntu 20.04.0 LTS
-* C files are compiled using `gcc 4.8.4`
-* C files are written according to the C90 standard
+* C files are compiled using `gcc 9.4.0`
+* C files are written according to the `C90` standard
 
 ## Projects
 
