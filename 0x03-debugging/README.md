@@ -4,8 +4,8 @@ This project was completed during **Fullstack Software Engineering programme** a
 
 ## More Info
 
-* C files were compiled using `gcc 4.8.4`
-* C files were written according to the C90 standard
+* C files were compiled using `gcc 9.4.0`
+* C files were written according to the `C90` standard
 * Tested on Ubuntu 20.04.0 LTS
 
 ## Files
