@@ -21,6 +21,8 @@ In these projects, we cover everything from the simplest code "Hello, wo
 | [`0x04-more_functions_nested_loops`](./0x04-more_functions_nested_loops) | It aimed to teach about nested loops in C language |
 | [`0x05-pointers_arryas_strings`](./0x05-pointers_arrays_strings) | It aimed to teach more about pointers and arrays in C language |
 | [`0x06-pointers_arrays_strings`](./0x06-pointers_arrays_strings) | It aimed to teach more about pointers and arrays in C language |
+| [`0x07-pointers_arrays_strings`](./0x07-pointers_arrays_strings) | It aimed to teach even more about pointers and arrays in C language |
+| [`0x08-recursion`](./0x08-recursion) | It aimed to teach about recursions, what they are, when and how to use them. |
 
 ## Author
 * Ifeoluwa Olushola - Cohort 7 (May 2022) 
