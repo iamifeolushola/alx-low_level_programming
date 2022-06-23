@@ -3,7 +3,7 @@
 This project explored more pointers, arrays, the differences, how to use them, the scope of variables, and manipulate strings.
 
 ## More Info
-* All files were compiled on Ubuntu 20.04.0 LTS using `gcc`.
+* All files were compiled on Ubuntu 20.04.0 LTS using `gcc 9.4.0`.
 * All script used the [`betty`](https://github.com/holbertonschool/Betty/wiki) style.
 * All programs were written in C language according to `C90` standard.
 
