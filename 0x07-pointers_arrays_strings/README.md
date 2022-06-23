@@ -1,4 +1,4 @@
-# 0x07. Even More Pointers, Arrays Strings
+#  0x07. Even More Pointers, Arrays Strings
 This project aimed to teach about pointers to pointers and how to use them,multidimensional arrays and how to use them, and the most common C standard library functions to manipulate strings.
 
 ## Project Files
@@ -7,13 +7,11 @@ This project aimed to teach about pointers to pointers and how to use them,multi
 | -------- | ----------- |
 | [`0-memset.c`](./0-memset.c) | This is a function that fills memory with a constant byte. |
 | [`1-memcpy.c`](./1-memcpy.c) | This is a function that copies memory area. |
-| [``](./) |  |
-| [``](./) |  |
-| [``](./) |  |
-| [``](./) |  |
-| [``](./) |  |
-| [``](./) |  |
-| [``](./) |  |
-| [``](./) |  |
-| [``](./) |  |
-
+| [`2-strchr.c`](./2-strchr.c) |  |
+| [`3-strspn.c`](./3-strspn.c) |  |
+| [`4-strpbrk.c`](./4-strpbrk.c) |  |
+| [`5-strstr.c`](./5-strstr.c) |  |
+| [`7-print_chessboard.c`](./7-print_chessboard.c) |  |
+| [`8-print_diagsums.c`](./8-print_diagsums.c) |  |
+| [`100-set_string.c`](./100-set_string.c) |   |
+| [`101-crackme_password`](./101-crackme_password) | This contains the password to a [`crackme2`]() file  |
