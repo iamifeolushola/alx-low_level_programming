@@ -23,6 +23,10 @@ In these projects, we cover everything from the simplest code "Hello, wo
 | [`0x06-pointers_arrays_strings`](./0x06-pointers_arrays_strings) | It aimed to teach more about pointers and arrays in C language |
 | [`0x07-pointers_arrays_strings`](./0x07-pointers_arrays_strings) | It aimed to teach even more about pointers and arrays in C language |
 | [`0x08-recursion`](./0x08-recursion) | It aimed to teach about recursions, what they are, when and how to use them. |
+| [`0x09-static_libraries`](./0x09-static_libraries) | It aimed to teach about creating a Static “C” Library using `ar` and `ranlib`. |
+| [`0x0A-argc_argv`](./0x0A-argc_argv) | It aimed to teach how to use arguments passed to a programme. |
+| [`0x0B-malloc_free`](./0x0B-malloc_free) | It aimed to teach what the difference between auto and dynamic memory allocation, `malloc` and `free` and how to use them, and how to use `valgrind` to check for memory leak. |
+| [``](./) | |
 
 ## Author
 * Ifeoluwa Olushola - Cohort 7 (May 2022) 
