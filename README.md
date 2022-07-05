@@ -26,7 +26,9 @@ In these projects, we cover everything from the simplest code "Hello, wo
 | [`0x09-static_libraries`](./0x09-static_libraries) | It aimed to teach about creating a Static “C” Library using `ar` and `ranlib`. |
 | [`0x0A-argc_argv`](./0x0A-argc_argv) | It aimed to teach how to use arguments passed to a programme. |
 | [`0x0B-malloc_free`](./0x0B-malloc_free) | It aimed to teach what the difference between auto and dynamic memory allocation, `malloc` and `free` and how to use them, and how to use `valgrind` to check for memory leak. |
- [`0x0C-more_malloc_free`](./0x0C-more_malloc_free) | This aimed to teach how to use the `exit` function and what the functions `calloc` and `realloc` from the standard library are and how to use them. |
+| [`0x0C-more_malloc_free`](./0x0C-more_malloc_free) | This aimed to teach how to use the `exit` function and what the functions `calloc` and `realloc` from the standard library are and how to use them. |
+| [`0x0D-preprocessor`](./0x0D-preprocessor) | This aimed to teach how to use macros, include guards in a header, and what the most common predefined macros are. |
+| [`0x0E-structures_typedef`](./0x0E-structures_typedef) | This aimed to teach what structures are, why and when to use them, and how to use a `typedef` |
 
 ## Author
 * Ifeoluwa Olushola - Cohort 7 (May 2022) 
