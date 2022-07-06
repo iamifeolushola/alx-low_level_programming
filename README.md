@@ -4,7 +4,7 @@ At ALX School, we learn by doing the hard things. This repository contai
 
 ## Technologies
 * Scripts written in Bash 5.0.17(1)
-* Tested on Ubuntu 20.04.0 LTS
+* Tested on Ubuntu 20.04.4 LTS
 * C files are compiled using `gcc 9.4.0`
 * C files are written according to the `C90` standard
 
@@ -29,6 +29,8 @@ In these projects, we cover everything from the simplest code "Hello, wo
 | [`0x0C-more_malloc_free`](./0x0C-more_malloc_free) | This aimed to teach how to use the `exit` function and what the functions `calloc` and `realloc` from the standard library are and how to use them. |
 | [`0x0D-preprocessor`](./0x0D-preprocessor) | This aimed to teach how to use macros, include guards in a header, and what the most common predefined macros are. |
 | [`0x0E-structures_typedef`](./0x0E-structures_typedef) | This aimed to teach what structures are, why and when to use them, and how to use a `typedef` |
+| [`0x0F-function_pointers`](./0x0F-function_pointers) | This aimed to teach what function pointers are, what they point to in a virtual memory, and how to use them. |
+| [`0x10-variadic_functions`](./0x10-variadic_functions) | This aimed to teach what variadic function is, how to use `va_start`, `va_arg` and `va_end` macros, why and how to use the `const` type qualifier. |
 
 ## Author
 * Ifeoluwa Olushola - Cohort 7 (May 2022) 
